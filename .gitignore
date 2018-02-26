@@ -1,0 +1,16 @@
+# Build directory
+dist/
+
+# Dependencies
+node_modules/
+
+# Files that start with . or ~
+.*
+~*
+
+# OS-generated files
+Thumbs.db
+
+# Track changes if present
+!.gitignore
+
